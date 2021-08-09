@@ -14,7 +14,7 @@ Group 2:
              
 ============================
 
-Published: https://iamnht.github.io/eProject-GiftShop/
+Published: https://thanhando.github.io/eProject-GiftShop/
 
 ============================
 
