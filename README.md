@@ -16,6 +16,8 @@ Group 2:
 
 Published: https://thanhando.github.io/eProject-GiftShop/
 
+eProject report link: https://github.com/ThanhAnDo/eProject-GiftShop/tree/main/document
+
 ============================
 
 Thank you for spending your time to look at our work.
